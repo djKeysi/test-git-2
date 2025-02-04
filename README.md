@@ -15,3 +15,7 @@ git branch
   git diff index.html  выйти на q
 
   git reset --hard вернуть на изначальное положение изменения
+  ///////////////////////////
+  ветки
+  git branch develop
+  git branch checkout develop// переключение на ветку
