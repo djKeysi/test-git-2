@@ -18,4 +18,12 @@ git branch
   ///////////////////////////
   ветки
   git branch develop
-  git branch checkout develop// переключение на ветку
+  git checkout develop// переключение на ветку
+
+git pull origin master забрали с гит хаба изменения
+git branch -D develop //удалили ветку
+
+///////////////////////
+слияние веток
+1. git checkout master
+2. git merge feature/main-page
